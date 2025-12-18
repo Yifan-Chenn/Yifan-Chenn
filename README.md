@@ -4,7 +4,7 @@ MS student in Statistics at UC Davis, interested in statistical learning for pub
 
 ### Selected Projects
 - **SDOH County Clustering** (preprocessing + domain PCA + interpretation) — [https://github.com/Yifan-Chenn/sdoh-county-clustering]
-- **Climate Extremes & Health** (climate + wildfire + NLP) — [link]
+- **Climate Extremes & Health** (climate + wildfire + NLP) — [https://github.com/Yifan-Chenn/Web-Scraping-and-Climate-Change]
 - **DAGs Algorithm Comparison** (Simulation + MMHC + FGS + NOTEAR) — [https://github.com/Yifan-Chenn/dags-algorithm-comparison]
 
 📫 lavender.fanfan@gmail.com
